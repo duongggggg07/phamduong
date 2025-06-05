@@ -1,0 +1,10 @@
+
+p:nth-last-child(odd) {
+  color: red;
+  font-size: 30px;
+}
+
+p:only-child {
+  color: blue;
+  font-size: 40px;
+}

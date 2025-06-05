@@ -1,0 +1,7 @@
+[title$="abc2323"] {
+  color: teal;
+}
+a[title*="pic"] {
+  color: blueviolet;
+  font-size: 30px;
+}
